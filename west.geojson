@@ -13270,7 +13270,9 @@
             },
             "properties": {
                 "country": "Indonesia",
-                "id_1": 1
+                "fill": "#b07aa1",
+                "id_1": 1,
+                "region": "West"
             }
         }
     ]
