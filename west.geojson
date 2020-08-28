@@ -13271,8 +13271,8 @@
             "properties": {
                 "country": "Indonesia",
                 "fill": "#b07aa1",
-                "id_1": 1,
-                "region": "West"
+                "region": "West",
+			    "stroke-opacity": 0,
             }
         }
     ]
