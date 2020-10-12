@@ -13272,6 +13272,7 @@
                 "country": "Indonesia",
                 "fill": "#b07aa1",
                 "region": "WEST",
+                "name": "WEST",
                 "latitude": -0.649971,
                 "longitude": 102.407488,
                 "stroke-opacity": 0
@@ -19848,6 +19849,7 @@
                 "country": "Indonesia",
                 "fill": "#f1a051",
                 "region": "NORTH",
+                "name": "NORTH",
                 "latitude": 1.371369,
                 "longitude": 118.139909,
                 "stroke-opacity": 0
@@ -19936,6 +19938,7 @@
                 "country": "Indonesia",
                 "fill": "#e37476",
                 "region": "JABO",
+                "name": "JABO",
                 "latitude": -6.219489,
                 "longitude": 106.840835,
                 "stroke-opacity": 0
@@ -53164,6 +53167,7 @@
                 "country": "Indonesia",
                 "fill": "#6d8fb4",
                 "region": "EAST",
+                "name": "EAST",
                 "latitude": -5.300611,
                 "longitude": 129.565690,
                 "stroke-opacity": 0
@@ -56152,6 +56156,7 @@
                 "country": "Indonesia",
                 "fill": "#8bc1bb",
                 "region": "CENTRAL",
+                "name": "CENTRAL",
                 "latitude": -7.222577,
                 "longitude": 110.932878,
                 "stroke-opacity": 0
